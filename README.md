@@ -24,13 +24,17 @@
 
 ## Selected public work
 
+- **[Production AI agent blueprints](https://github.com/Gauthier-Huguenin/production-ai-agent-blueprints)**: executable reference implementations for signed ingress, durable jobs, idempotency, retries, leases and dead-lettering.
+- **[Canvas Memory Guard](https://github.com/Gauthier-Huguenin/canvas-memory-guard)**: dependency-free TypeScript preflight checks that reject unsafe browser canvas allocations before they happen.
 - **[n8n + Pennylane invoicing](https://github.com/Gauthier-Huguenin/n8n-pennylane-auto-invoicing)**: three documented workflows for invoice creation, payment tracking and overdue reminders.
 - **[impots.tax](https://github.com/Gauthier-Huguenin/impots-tax)**: sourced French tax data, bilingual rendering, Docker deployment and an n8n-to-GitHub reporting pipeline.
-- **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions and complete unedited outputs with recorded time, tokens and cost estimates.
+- **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions, unedited outputs and reproducible artifact measurements.
 - **[+33 Chrome extension](https://github.com/Gauthier-Huguenin/PLUS33-App)**: a published utility for normalizing French telephone numbers locally.
 
 ## Open-source work in progress
 
+- [romainsimon/paperasse #63](https://github.com/romainsimon/paperasse/pull/63): add a tested, read-only Pennylane Company API v2 transaction fetcher.
+- [enescingoz/awesome-n8n-templates #163](https://github.com/enescingoz/awesome-n8n-templates/pull/163): contribute a portable Pennylane webhook invoicing workflow.
 - [NousResearch/hermes-agent #70104](https://github.com/NousResearch/hermes-agent/pull/70104): correct Grok Build session and configuration guidance.
 - [hardikpandya/stop-slop #52](https://github.com/hardikpandya/stop-slop/pull/52): add Hermes and bilingual writing support.
 - [cfdude/mcp-namecheap #11](https://github.com/cfdude/mcp-namecheap/pull/11): repair the published npm executable and refresh setup documentation.
