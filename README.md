@@ -1,89 +1,55 @@
-<!-- HERO -->
-
 <h1 align="center">Gauthier Huguenin</h1>
 
 <p align="center">
-  AI Consultant
+  <strong>AI consultant building autonomous agents and production AI systems for businesses.</strong>
 </p>
 
 <p align="center">
-  I design AI systems that run inside real businesses.
+  I connect AI agents to real company tools, deploy them on controlled infrastructure, and make them observable enough to operate safely.
 </p>
 
 <p align="center">
-  <a href="https://hgnn.io">
-    <img src="https://img.shields.io/badge/Explore-hgnn.io-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://hgnn.io"><img src="https://img.shields.io/badge/Consulting-hgnn.io-000000?style=for-the-badge" alt="HGNN consulting website"></a>
+  <a href="https://x.com/LePloutos"><img src="https://img.shields.io/badge/Build_in_public-@LePloutos-111111?style=for-the-badge&logo=x&logoColor=white" alt="Gauthier on X"></a>
 </p>
 
----
+## Building now
 
-## About
+| Project | What it proves | Status |
+| --- | --- | --- |
+| **[Opsroom](https://getopsroom.com)** | A control plane for agents hosted across different platforms and servers | Active development |
+| **[ScreenPolish](https://getscreenpolish.com)** | A privacy-first SaaS for producing polished screenshots directly in the browser | Live |
+| **[impots.tax](https://impots.tax)** | A bilingual, sourced dashboard built with Next.js and deployed in production | Live and open source |
+| **[HGNN](https://hgnn.io)** | AI consulting, audits and production automation for SMEs | Active |
 
-I work with SME leaders who want to bring AI into their business,  
-without having to translate their reality into “AI language”.
+## Selected public work
 
-10+ years in sales, operations, and entrepreneurship  
-before specializing in AI systems.
+- **[n8n + Pennylane invoicing](https://github.com/Gauthier-Huguenin/n8n-pennylane-auto-invoicing)**: three documented workflows for invoice creation, payment tracking and overdue reminders.
+- **[impots.tax](https://github.com/Gauthier-Huguenin/impots-tax)**: sourced French tax data, bilingual rendering, Docker deployment and an n8n-to-GitHub reporting pipeline.
+- **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions and complete unedited outputs with recorded time, tokens and cost estimates.
+- **[+33 Chrome extension](https://github.com/Gauthier-Huguenin/PLUS33-App)**: a published utility for normalizing French telephone numbers locally.
 
----
+## Open-source work in progress
 
-## Work
+- [NousResearch/hermes-agent #70104](https://github.com/NousResearch/hermes-agent/pull/70104): correct Grok Build session and configuration guidance.
+- [hardikpandya/stop-slop #52](https://github.com/hardikpandya/stop-slop/pull/52): add Hermes and bilingual writing support.
+- [cfdude/mcp-namecheap #11](https://github.com/cfdude/mcp-namecheap/pull/11): repair the published npm executable and refresh setup documentation.
+- [yusufipk/imagen-openrouter #3](https://github.com/yusufipk/imagen-openrouter/pull/3): add current image models and provider mappings.
 
-<div align="center">
+These links are intentionally labelled as work in progress until the maintainers review or merge them.
 
-| Project | What it does | Status |
-|:--------|:-------------|:------:|
-| 🔧 **[impots.tax](https://github.com/Gauthier-Huguenin/impots-tax)** | Satirical “war room” dashboard of real French tax data | 🔨 In Progress |
-| 🤖 **[n8n × Pennylane](https://github.com/Gauthier-Huguenin/n8n-pennylane-auto-invoicing)** | Automates invoicing, payment tracking, and reminders | ✅ Completed |
-| 📱 **[+33 Extension](https://github.com/Gauthier-Huguenin/PLUS33-App)** | Instantly format French phone numbers (+33 / local) | ✅ Completed |
+## What I work on
 
-</div>
+- Autonomous agents connected to business tools
+- n8n workflows and API integrations
+- Agent deployment, observability and operations
+- Production SaaS infrastructure on Coolify and Hetzner
+- AI audits, roadmaps and practical team training
 
----
+## Working stack
 
-## What I build
+`Hermes Agent` · `OpenClaw` · `n8n` · `TypeScript` · `Python` · `PostgreSQL` · `Docker` · `Coolify` · `Hetzner`
 
-• Custom AI agents connected to your tools  
-• Workflow automation removing manual work  
-• Practical team training based on real use cases  
-• AI consulting and roadmap  
+## Contact
 
----
-
-## Approach
-
-<p align="center">
-I don’t build AI features.<br/>
-I build systems people actually use.
-</p>
-
----
-
-## Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Coolify-000000?style=for-the-badge&logo=coolify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-000000?style=for-the-badge&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-
-  <br/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/VPS-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenClaw-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hermes-111111?style=for-the-badge" />
-
-</div>
-
----
-
-<p align="center">
-  <a href="https://hgnn.io">
-    <img src="https://img.shields.io/badge/Visit%20my%20website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+If you are exploring an AI agent or automation project for your company, the best starting point is **[hgnn.io](https://hgnn.io)**.
