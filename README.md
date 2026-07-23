@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://hgnn.io"><img src="https://img.shields.io/badge/Consulting-hgnn.io-000000?style=for-the-badge" alt="HGNN consulting website"></a>
-  <a href="https://x.com/LePloutos"><img src="https://img.shields.io/badge/Build_in_public-@LePloutos-111111?style=for-the-badge&logo=x&logoColor=white" alt="Gauthier on X"></a>
 </p>
 
 ## Building now
