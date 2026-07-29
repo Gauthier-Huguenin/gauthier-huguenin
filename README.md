@@ -30,16 +30,22 @@
 - **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions, unedited outputs and reproducible artifact measurements.
 - **[+33 Chrome extension](https://github.com/Gauthier-Huguenin/PLUS33-App)**: a published utility for normalizing French telephone numbers locally.
 
-## Open-source work in progress
+## Open-source contributions
 
+### Merged
+
+- [enescingoz/awesome-n8n-templates #163](https://github.com/enescingoz/awesome-n8n-templates/pull/163): contributed a ready-to-import, credential-free Pennylane webhook invoicing workflow.
+
+### Under review
+
+- [NousResearch/hermes-agent #70104](https://github.com/NousResearch/hermes-agent/pull/70104): update Grok Build model selection and permission configuration guidance.
 - [romainsimon/paperasse #63](https://github.com/romainsimon/paperasse/pull/63): add a tested, read-only Pennylane Company API v2 transaction fetcher.
-- [enescingoz/awesome-n8n-templates #163](https://github.com/enescingoz/awesome-n8n-templates/pull/163): contribute a portable Pennylane webhook invoicing workflow.
-- [NousResearch/hermes-agent #70104](https://github.com/NousResearch/hermes-agent/pull/70104): correct Grok Build session and configuration guidance.
+- [runcat-dev/RunnerGallery #53](https://github.com/runcat-dev/RunnerGallery/pull/53): contribute an original monochrome pug runner and packaged assets for RunCat Neo.
 - [hardikpandya/stop-slop #52](https://github.com/hardikpandya/stop-slop/pull/52): add Hermes and bilingual writing support.
 - [cfdude/mcp-namecheap #11](https://github.com/cfdude/mcp-namecheap/pull/11): repair the published npm executable and refresh setup documentation.
 - [yusufipk/imagen-openrouter #3](https://github.com/yusufipk/imagen-openrouter/pull/3): add current image models and provider mappings.
 
-These links are intentionally labelled as work in progress until the maintainers review or merge them.
+Items under review are not presented as accepted until the maintainers merge them.
 
 ## What I work on
 
