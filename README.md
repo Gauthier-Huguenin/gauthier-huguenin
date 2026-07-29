@@ -16,7 +16,7 @@
 
 | Project | What it proves | Status |
 | --- | --- | --- |
-| **[Opsroom](https://getopsroom.com)** | A control plane for agents hosted across different platforms and servers | Active development |
+| **[Skills IA for French lawyers](https://github.com/Gauthier-Huguenin/skills-avocats-fr)** | An open-source pack of 8 interoperable skills for traceable, human-reviewed legal casework across Claude, ChatGPT, Hermes and OpenClaw | Released and open source |
 | **[ScreenPolish](https://getscreenpolish.com)** | A privacy-first SaaS for producing polished screenshots directly in the browser | Live |
 | **[impots.tax](https://impots.tax)** | A bilingual, sourced dashboard built with Next.js and deployed in production | Live and open source |
 | **[HGNN](https://hgnn.io)** | AI consulting, audits and production automation for SMEs | Active |
