@@ -1,25 +1,25 @@
 <h1 align="center">Gauthier Huguenin</h1>
 
 <p align="center">
-  <strong>AI consultant building autonomous agents and production AI systems for businesses.</strong>
+  <strong>Founder of <a href="https://kirako.ai">Kirako</a> · AI agents, automation and training for businesses.</strong>
 </p>
 
 <p align="center">
-  I connect AI agents to real company tools, deploy them on controlled infrastructure, and make them observable enough to operate safely.
+  At Kirako, we build agents that work inside a company's existing tools. We also help teams learn to use AI and audit where it can actually help.
 </p>
 
 <p align="center">
-  <a href="https://hgnn.io"><img src="https://img.shields.io/badge/Consulting-hgnn.io-000000?style=for-the-badge" alt="HGNN consulting website"></a>
+  <a href="https://kirako.ai"><img src="https://img.shields.io/badge/Kirako-kirako.ai-000000?style=for-the-badge" alt="Kirako website"></a>
 </p>
 
 ## Building now
 
 | Project | What it proves | Status |
 | --- | --- | --- |
+| **[Kirako](https://kirako.ai)** | Custom AI agents and automation, AI training and on-site audits for businesses | Active |
 | **[Skills IA for French lawyers](https://github.com/Gauthier-Huguenin/skills-avocats-fr)** | An open-source pack of 8 interoperable skills for traceable, human-reviewed legal casework across Claude, ChatGPT, Hermes and OpenClaw | Released and open source |
 | **[ScreenPolish](https://getscreenpolish.com)** | A privacy-first SaaS for producing polished screenshots directly in the browser | Live |
-| **[impots.tax](https://impots.tax)** | A bilingual, sourced dashboard built with Next.js and deployed in production | Live and open source |
-| **[HGNN](https://hgnn.io)** | AI consulting, audits and production automation for SMEs | Active |
+| **[impots.tax](https://github.com/Gauthier-Huguenin/impots-tax)** | A bilingual, sourced dashboard built with Next.js | Open source |
 
 ## Selected public work
 
@@ -52,13 +52,13 @@ Items under review are not presented as accepted until the maintainers merge the
 - Autonomous agents connected to business tools
 - n8n workflows and API integrations
 - Agent deployment, observability and operations
-- Production SaaS infrastructure on Coolify and Hetzner
+- Production deployments with Docker, Coolify and AWS
 - AI audits, roadmaps and practical team training
 
 ## Working stack
 
-`Hermes Agent` · `OpenClaw` · `n8n` · `TypeScript` · `Python` · `PostgreSQL` · `Docker` · `Coolify` · `Hetzner`
+`Hermes Agent` · `OpenClaw` · `n8n` · `TypeScript` · `Python` · `PostgreSQL` · `Docker` · `Coolify` · `AWS`
 
 ## Contact
 
-If you are exploring an AI agent or automation project for your company, the best starting point is **[hgnn.io](https://hgnn.io)**.
+Exploring an AI agent, automation or training project? Start with **[kirako.ai](https://kirako.ai)**.
