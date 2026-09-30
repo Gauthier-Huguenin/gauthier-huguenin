@@ -30,6 +30,14 @@
 - **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions, unedited outputs and reproducible artifact measurements.
 - **[+33 Chrome extension](https://github.com/Gauthier-Huguenin/PLUS33-App)**: a published utility for normalizing French telephone numbers locally.
 
+
+## Selected writing
+
+- **[Where to start with AI in a company](https://kirako.ai/en/blog/first-ai-project-smb)**: five first-project families, what must stay human, and how to pick a first useful project before buying another tool.
+- **[AI agent in production: where should companies put human approval?](https://kirako.ai/en/blog/ai-agent-production-human-approval-sme)**: action levels, risk gates, n8n review steps, logs and safe rollout rules in practice.
+- **[10 AI agents for multiple e-commerce sites](https://kirako.ai/en/blog/ten-ai-agents-for-multiple-ecommerce-sites)**: a field report on agent roles, Discord threads, MCP, model routing and guardrails across several stores.
+- **[A day testing Mistral AI](https://kirako.ai/en/blog/mistral-ai-business-one-day-field-test)**: observed results, limitations and costs of Mistral Vibe, GLM 5.3, Shieldstral, OCR 4.1 and Medium 3.5 for business AI decisions.
+
 ## Open-source contributions
 
 ### Merged
