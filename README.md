@@ -19,7 +19,7 @@
 | **[Kirako](https://kirako.ai)** | Custom AI agents and automation, AI training and on-site audits for businesses | Active |
 | **[Skills IA for French lawyers](https://github.com/Gauthier-Huguenin/skills-avocats-fr)** | An open-source pack of 8 interoperable skills for traceable, human-reviewed legal casework across Claude, ChatGPT, Hermes and OpenClaw | Released and open source |
 | **[ScreenPolish](https://getscreenpolish.com)** | A privacy-first SaaS for producing polished screenshots directly in the browser | Live |
-| **[impots.tax](https://github.com/Gauthier-Huguenin/impots-tax)** | A bilingual, sourced dashboard built with Next.js | Open source |
+| **[omp-mistral-subscription](https://github.com/Gauthier-Huguenin/omp-mistral-subscription)** | An OMP extension to use a Mistral Vibe subscription (browser sign-in, plan-quota billing, Mistral and GLM models) in a third-party coding agent | Open source |
 
 ## Selected public work
 
@@ -38,6 +38,7 @@
 
 ### Under review
 
+- [can1357/oh-my-pi #13875](https://github.com/can1357/oh-my-pi/pull/13875): add the Mistral Vibe browser sign-in login to the built-in `mistral` provider, so subscriptions bill on the plan quota instead of API credits.
 - [NousResearch/hermes-agent #70104](https://github.com/NousResearch/hermes-agent/pull/70104): update Grok Build model selection and permission configuration guidance.
 - [romainsimon/paperasse #63](https://github.com/romainsimon/paperasse/pull/63): add a tested, read-only Pennylane Company API v2 transaction fetcher.
 - [runcat-dev/RunnerGallery #53](https://github.com/runcat-dev/RunnerGallery/pull/53): contribute an original monochrome pug runner and packaged assets for RunCat Neo.
