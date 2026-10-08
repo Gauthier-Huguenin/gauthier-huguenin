@@ -25,6 +25,7 @@
 
 - **[Production AI agent blueprints](https://github.com/Gauthier-Huguenin/production-ai-agent-blueprints)**: executable reference implementations for signed ingress, durable jobs, idempotency, retries, leases and dead-lettering.
 - **[Canvas Memory Guard](https://github.com/Gauthier-Huguenin/canvas-memory-guard)**: dependency-free TypeScript preflight checks that reject unsafe browser canvas allocations before they happen.
+- **[n8n + Plaud AI meeting notes](https://github.com/Gauthier-Huguenin/n8n-plaud-ai-meeting-notes)**: Plaud recordings collected through the official MCP server, classified by one LLM call, then filed and logged by deterministic n8n nodes, with storage adapters (Google Drive, OneDrive, Dropbox) and CRM adapters (Attio, HubSpot, Pipedrive, Twenty).
 - **[n8n + Pennylane invoicing](https://github.com/Gauthier-Huguenin/n8n-pennylane-auto-invoicing)**: three documented workflows for invoice creation, payment tracking and overdue reminders.
 - **[impots-tax](https://github.com/Gauthier-Huguenin/impots-tax)** (archived): sourced French tax data, bilingual rendering, Docker deployment and an n8n-to-GitHub reporting pipeline. Open source under MIT, free for anyone to fork and reuse.
 - **[GPT-5.6 frontend comparison](https://github.com/Gauthier-Huguenin/haribo-gpt-5.6-comparison)**: one prompt, three independent Codex sessions, unedited outputs and reproducible artifact measurements.
